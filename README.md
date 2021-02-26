@@ -1,4 +1,4 @@
-# react_reconciliation
+# React Reconciliation Example
 
 This is a small example that demonstrates the react reconciliation algorithm, one of the really interesting things about React which makes it different from other js frameworks.
 
